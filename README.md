@@ -1,1 +1,1 @@
-# smart-contracts-examples
+# smart-contracts-security
