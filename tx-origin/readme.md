@@ -1,0 +1,1 @@
+tx.origin is a global variable in Solidity which returns the address of the account that sent the transaction. Contracts that use the tx.origin to authorize users are vulnerable to phishing attacks.
